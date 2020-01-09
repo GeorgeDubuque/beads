@@ -1,0 +1,28 @@
+
+
+.tb{
+  background-color: rgb(29,29,29);
+  resize: both;
+  overflow: auto;
+  min-width: 200px;
+  min-height: 200px;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  padding: 0%;
+}
+
+#handle{
+  background-color: rgb(29, 29, 29);
+  height: 1em;
+}
+
+.sketch-picker{
+  background-color: rgb(29, 29, 29) !important;
+}
+
+.sketch-picker, span{
+  color: rgb(190, 190, 190) !important;
+
+}

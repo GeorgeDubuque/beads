@@ -1,0 +1,9 @@
+export const PLACE_BEAD = "PLACE_BEAD";
+export const SET_BRUSH_POSITION = "SET_BRUSH_POSITION";
+export const REDO = "REDO";
+export const UNDO = "UNDO";
+export const ADD_STATE = "ADD_STATE";
+export const SET_ACTIVE_COLOR = "SET_ACTIVE_COLOR";
+export const SET_MOUSE_STATUS = "MOUSE_STATUS";
+export const MOUSE_HELD = "MOUSE_HELD";
+export const ERASE = "ERASE";
